@@ -1,6 +1,6 @@
 # 🚀 Guida all'Uso di ESP32 DevKit con MicroPython
 
-> Una guida completa e **in italiano** per iniziare con l'ESP32 DevKit v1 (WROOM-32) e programmare in MicroPython. Include installazione driver, setup di Thonny IDE, flashing del firmware e test base.
+> Una guida completa e **in italiano** per iniziare con l'ESP32 DevKit v1 (WROOM-32) e programmare in MicroPython. Include installazione driver, setup di Thonny IDE, flashing del firmware.
 
 ## 🧰 Requisiti
 
