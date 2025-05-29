@@ -1,4 +1,4 @@
-# Guida all uso di ESP32 con MicroPython 
+# Guida all uso di ESP32 DevKit con MicroPython 
 
 
 ## Installazione dei Driver 
